@@ -1,0 +1,2 @@
+# VostrokNet
+Vostrok Network library
